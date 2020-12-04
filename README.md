@@ -24,7 +24,6 @@ Un écran présentera des informations générales sur les données récupérée
 ## Exigences :
 Format des données OpenData :
     Format Json
-    Avec un champ correspondant à l’url d’une image
     Avec un champ correspondant à une position
 Application composée au minimum de 2 Fragment et 2 Activity
 Une Actionbar sera présente et permettra de rafraîchir les données récupérées et affichées
@@ -36,6 +35,8 @@ Amélioration de l’expérience utilisateur :
 Enrichissements techniques :
     Mise en place d’une base de données locale pour afficher la liste d’élément en mode hors connexion
     Utilisation de LiveData ou d’Observable pour la récupération de données dans la BDD
+
+
 
 
 
